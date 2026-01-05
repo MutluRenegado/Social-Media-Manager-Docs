@@ -54,3 +54,15 @@ Start here:
 > *Mutlu Akgün — Building scalable digital systems & content.*
 
 ---
+
+---
+
+## 📄 License & Intellectual Property
+
+**Social Media Manager** is a proprietary platform owned by **ANM Labs**.
+
+All application code, documentation, designs, AI systems, workflows, and related materials are **protected intellectual property**.  
+No part of this project may be copied, modified, redistributed, or used to create derivative or competing products without explicit written permission.
+
+See the [`LICENSE`](./LICENSE) file for full terms.
+
